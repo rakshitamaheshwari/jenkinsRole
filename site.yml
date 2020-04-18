@@ -1,6 +1,0 @@
-- hosts: ec2
-  remote_user: ec2-user
-- name: Install jenkins
-  roles:
-     - jenkins
-
